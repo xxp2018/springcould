@@ -1,4 +1,4 @@
-package controller;
+package com.xxp.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -11,6 +11,6 @@ public class SearchController {
 
     @GetMapping("/search")
     public String search(){
-        return "search：";
+        return "search："+port;
     }
 }

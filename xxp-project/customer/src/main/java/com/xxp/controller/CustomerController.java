@@ -1,4 +1,4 @@
-package com.controller;
+package com.xxp.controller;
 
 
 import com.netflix.appinfo.InstanceInfo;
