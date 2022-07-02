@@ -16,6 +16,7 @@
     <modules>
         <module>eureka</module>
         <module>customer</module>
+        <module>03-search</module>
     </modules>
     <name>xxp-project</name>
     <description>Demo project for Spring Boot</description>
